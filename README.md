@@ -6,7 +6,7 @@ Entrypoint: `streamlit_app.py`
 
 Deploy at https://share.streamlit.io/ from this GitHub repository.
 
-## Research profiles
+## Profiles
 
 - **WordPress:** https://deborahakuokominka.wordpress.com/
 - **about.me:** https://about.me/deborah_akuoko_minka_ama
