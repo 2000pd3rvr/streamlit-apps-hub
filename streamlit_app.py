@@ -15,4 +15,7 @@ with st.sidebar:
     st.markdown("### Apps")
     st.markdown("- [careTalk](https://caretalk.streamlit.app/)\n- [Corner Cafe](https://corner-cafe.streamlit.app/)\n- [Golden Green SC](https://golden-green-sc.streamlit.app/)\n- [SMOS](https://smos.streamlit.app/)\n- [Apps hub](https://streamlit-apps-hub.streamlit.app/)\n- [Auto Object Annotator](https://auto-object-annotator.streamlit.app/)")
 
-st.markdown("Live demos hosted on Streamlit Community Cloud. Source on GitHub under [@2000pd3rvr](https://github.com/2000pd3rvr).")
+st.markdown(
+    "Live demos on Streamlit Community Cloud. Source on "
+    f"[GitHub](https://github.com/2000pd3rvr) and [GitLab](https://gitlab.com/2000pd3rvr)."
+)
