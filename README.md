@@ -27,7 +27,7 @@ Deploy at https://share.streamlit.io/ from this GitHub repository.
 ## Streamlit apps
 
 - **careTalk:** https://caretalk.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/careTalk) · [GitLab](https://gitlab.com/2000pd3rvr/careTalk)
-- **Corner Cafe:** https://corner-cafe.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/corner_cafe) · [GitLab](https://gitlab.com/2000pd3rvr/corner_cafe)
+- **HAH restaurant:** https://hah-restaurant.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/hah_restaurant) · [GitLab](https://gitlab.com/2000pd3rvr/hah_restaurant)
 - **Golden Green SC:** https://golden-green-sc.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/GoldenGreenFC) · [GitLab](https://gitlab.com/2000pd3rvr/GoldenGreenFC)
 - **SMOS:** https://smos.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/SMOS) · [GitLab](https://gitlab.com/2000pd3rvr/SMOS)
 - **Apps hub:** https://streamlit-apps-hub.streamlit.app/ · [GitHub](https://github.com/2000pd3rvr/streamlit-apps-hub) · [GitLab](https://gitlab.com/2000pd3rvr/streamlit-apps-hub)
@@ -39,7 +39,7 @@ Live demos on [Render](https://render.com) — **8 apps** (more than the 5 Strea
 
 - **careTalk:** https://caretalk.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/careTalk) · [GitLab](https://gitlab.com/2000pd3rvr/careTalk)
 - **Golden Green SC:** https://golden-green-fc.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/GoldenGreenFC) · [GitLab](https://gitlab.com/2000pd3rvr/GoldenGreenFC)
-- **Corner Cafe:** https://corner-cafe-kefh.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/corner_cafe) · [GitLab](https://gitlab.com/2000pd3rvr/corner_cafe)
+- **HAH restaurant:** https://hah-restaurant.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/hah_restaurant) · [GitLab](https://gitlab.com/2000pd3rvr/hah_restaurant)
 - **SMOS:** https://smos.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/SMOS) · [GitLab](https://gitlab.com/2000pd3rvr/SMOS)
 - **Auto Object Annotator:** https://auto-object-annotator.onrender.com/ · [GitHub](https://github.com/2000pd3rvr/auto_object_annotator_0.0.4) · [GitLab](https://gitlab.com/2000pd3rvr/auto_object_annotator_0.0.4)
 - **crushgame:** https://crushgame.onrender.com/ *(Render only)* · [GitHub](https://github.com/2000pd3rvr/crushgame) · [GitLab](https://gitlab.com/2000pd3rvr/crushgame)
